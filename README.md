@@ -7,8 +7,7 @@
 
 
 ## 🧒 Sobre Mi
-
-Ingeniero en multimedia y desarrollador backend
+Soy un Ingeniero en Multimedia y Desarrollador de Back-end con un enfoque en la solución de problemas a través del desarrollo. Soy apasionado por aprender y afrontar nuevos desafíos que me permiten mejorar mis habilidades. Soy perseverante, recursivo y comprometido a alcanzar mis metas. He tenido la oportunidad de trabajar como diseñador 3D con empresas de desarrollo de tecnología que me ha permitido obtener habilidades en trabajo en equipo, comunicación asertiva y uso de metodologías ágiles.  
 ## 💡 Proyectos
 ## 🛠 Tecnologías
 
