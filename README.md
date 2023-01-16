@@ -3,7 +3,7 @@
 # ¡Hola! 👋 Soy Giovanni
 
 
-![Logo](https://github.com/GioScarp/GioScarp/blob/main/LOGOtraingCgtrader3.png)
+![Logo](https://github.com/GioScarp/GioScarp/blob/main/Banner_Dev.png)
 
 
 ## 🧒 Sobre Mi
