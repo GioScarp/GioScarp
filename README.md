@@ -7,7 +7,9 @@
 
 
 ## 🧒 Sobre Mi
-Soy Ingeniero en Multimedia y Desarrollador Back-end con un enfoque en la solución de problemas a través del desarrollo. Soy apasionado por aprender y afrontar nuevos desafíos que me permiten mejorar mis habilidades. Me caracterizo por ser perseverante, recursivo y comprometido a alcanzar mis metas. He tenido la oportunidad de trabajar como diseñador 3D con empresas de desarrollo de tecnología que me han permitido obtener habilidades en trabajo en equipo, comunicación asertiva y uso de metodologías ágiles.  
+Soy Ingeniero en Multimedia y Desarrollador Back-end, enfocado en resolver problemas a través del desarrollo de software. Mi pasión por aprender y enfrentar nuevos desafíos me impulsa a mejorar continuamente mis habilidades y competencias en este campo. 
+
+Además, mi experiencia como diseñador 3D en empresas de desarrollo de tecnología me ha permitido adquirir habilidades valiosas en trabajo en equipo, metodologías ágiles, adaptabilidad y control de versiones.Siempre estoy dispuesto a enfrentar nuevos retos y colaborar con el equipo para alcanzar los objetivos esperados.  
 ## 💡 Proyectos
 ## 🛠 Tecnologías
 
