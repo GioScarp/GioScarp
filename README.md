@@ -16,7 +16,7 @@ Además, mi experiencia como diseñador 3D en empresas de desarrollo de tecnolog
 
 > 📝 _***GENERADOR DE CITAS GENERALES:***_ Desarrollo de una API REST utilizando Java 17, Spring Boot 3.0 y React para la creación de una app que permite agendar citas para cualquier propósito. Para experimentar con la aplicación, simplemente haz clic en el siguiente enlace: <a href="https://github.com/Trycatch-tv/f1it2-Team-10-Backend">CitaSync 📝</a>
 
-> 🔃 _***CONVERTIDOR MULTIPLE:***_ Desarrollo de una app utilizando Java 17 que permite hacer la conversión de monedas, temperatura y medidas. Para experimentar con la aplicación, simplemente haz clic en el siguiente enlace: <a href="https://github.com/GioScarp/convertidor_monedas">CitaSync 🔃</a>
+> 🔃 _***CONVERTIDOR MULTIPLE:***_ Desarrollo de una app utilizando Java 17 que permite hacer la conversión de monedas, temperatura y medidas. Para experimentar con la aplicación, simplemente haz clic en el siguiente enlace: <a href="https://github.com/GioScarp/convertidor_monedas">Conversor Multiple 🔃</a>
 
 
 ## 🛠 Tecnologías
